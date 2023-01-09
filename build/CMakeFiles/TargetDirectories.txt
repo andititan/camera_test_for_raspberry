@@ -1,0 +1,3 @@
+/home/andi/code/camera_test_for_raspberry/build/CMakeFiles/cameraTest.dir
+/home/andi/code/camera_test_for_raspberry/build/CMakeFiles/edit_cache.dir
+/home/andi/code/camera_test_for_raspberry/build/CMakeFiles/rebuild_cache.dir

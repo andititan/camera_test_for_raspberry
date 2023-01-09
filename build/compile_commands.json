@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/andi/code/camera_test_for_raspberry/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -isystem /usr/include/opencv4 -g -o CMakeFiles/cameraTest.dir/main.cpp.o -c /home/andi/code/camera_test_for_raspberry/main.cpp",
+  "file": "/home/andi/code/camera_test_for_raspberry/main.cpp"
+}
+]
